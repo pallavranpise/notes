@@ -1,0 +1,11 @@
+{
+  "name": "@notes/functions",
+  "version": "0.0.0",
+  "dependencies": {
+    "@notes/core": "*",
+    "sst": "*"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.137"
+  }
+}
